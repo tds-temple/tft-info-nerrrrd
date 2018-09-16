@@ -1,0 +1,2 @@
+export const SET_USERS_ALL = 'SET_USERS_ALL'
+export const SET_USERS_ERRORS = 'SET_USERS_ERRORS'
